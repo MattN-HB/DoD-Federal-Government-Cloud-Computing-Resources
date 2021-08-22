@@ -39,6 +39,7 @@
 - [DISA Secure Cloud Computing Architecture guide](https://rmf.org/wp-content/uploads/2018/05/SCCA_FRD_v2-9.pdf)
   
 - [DoD Cloud Exchange 2021](https://federalnewsnetwork.com/defense-main/2021/03/dod-cloud-exchange-archived-sessions/)
+- [NGA Software Way ](https://github.com/MattN-HB/DoD-Federal-Government-Cloud-Computing-Resources/blob/main/The%20NGA%20Software%20Way.pdf)
 ## Air Force
 - [DoD Enterprise DevSecOps Initiaitive and Platform One Documents](https://software.af.mil/dsop/documents/) 
 
